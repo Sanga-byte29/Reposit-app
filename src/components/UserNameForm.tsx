@@ -15,7 +15,7 @@ import { useRouter } from 'next/navigation';
 
 
 interface UserNameFormProps {
-    user: Pick<User, 'id' , 'username'>
+    user: Pick<User, 'id' | 'username'>
   
 }
 
