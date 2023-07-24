@@ -1,0 +1,32 @@
+{
+  "typescript.tsdk": "node_modules\\typescript\\lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "cSpell.words": [
+    "autosize",
+    "Breadit",
+    "clsx",
+    "cmdk",
+    "downvote",
+    "editorjs",
+    "frontpage",
+    "hgetall",
+    "hookform",
+    "hset",
+    "Lucide",
+    "mantine",
+    "Occured",
+    "optimises",
+    "Repositter",
+    "shadcn",
+    "subreposit",
+    "tailwindcss",
+    "tanstack",
+    "Unsub",
+    "uploadthing",
+    "upstash",
+    "upvote",
+    "UPVOTES"
+  ],
+  "WillLuke.nextjs.addTypesOnSave": true,
+  "WillLuke.nextjs.hasPrompted": true
+}
